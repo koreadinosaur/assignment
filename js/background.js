@@ -1,4 +1,4 @@
-const images = ["sunsetBusan.jpg","Busan.jpg","Hanok.jpg"];
+const images = ["sunsetbusan.jpg","busan.jpg","hanok.jpg"];
 const chosenImages = images[Math.floor(Math.random()*images.length)];
 
 const bgImages = document.createElement("img");
